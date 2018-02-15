@@ -19,9 +19,9 @@ public class ConfigHandler {
 			"RCXCrafter"
 	};
 	private static String[] default_mapTooltips = {
-			"Wealthyturtle#Author of Universal: Interdimensional Escape",
-			"Wanioncane#Singularity Team Member",
-			"RCXCrafter#Singularity Team Member"
+			"Wealthyturtle#Author of Universal: Interdimensional Escape, Singularity Team",
+			"WanionCane#Singularity Team",
+			"RCXCrafter#Singularity Team"
 	};
 	
 	// Extracted
